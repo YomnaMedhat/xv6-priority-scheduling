@@ -1,0 +1,9 @@
+*.o
+*.d
+*.asm
+*.sym
+*.img
+fs.img
+xv6.out
+*.log
+
